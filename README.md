@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a **Data and Artificial Intelligence Engineering graduate** from Universidad Autónoma de Occidente, focused on **data analytics, business intelligence and predictive modeling**.
+I am a **Data and Artificial Intelligence Engineer**, focused on **data analytics, business intelligence and predictive modeling**.
 
 I enjoy making data useful: understanding a question, preparing reliable inputs, exploring patterns and explaining the results clearly. My experience in interpreting and teaching shapes how I communicate technical ideas to different audiences.
 
