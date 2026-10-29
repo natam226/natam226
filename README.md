@@ -1,4 +1,4 @@
-![Natalia Moreno Montoya — Data Analyst and Data Scientist. Explore, model, explain.](profile-banner.svg)
+![Natalia Moreno — Data Scientist | Machine Learning Engineer | Data Analyst | Data Engineer | Computer Vision](assets/linkedin-banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natalia-moreno-88a8b3268/"><b>LinkedIn</b></a>
