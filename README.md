@@ -1,9 +1,9 @@
 ![Natalia Moreno — Data Scientist | Machine Learning Engineer | Data Analyst | Data Engineer | Computer Vision](assets/linkedin-banner.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/natalia-moreno-88a8b3268/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/natam226/"><b>LinkedIn</b></a>
   &nbsp; · &nbsp;
-  <a href="mailto:natalia.moreno.mon@gmail.com"><b>Get in touch</b></a>
+  <a href="mailto:natalia.moreno.mon@gmail.com"><b>E-mail</b></a>
 </p>
 
 ## About me
