@@ -33,11 +33,12 @@ I enjoy making data useful: understanding a question, preparing reliable inputs,
 
 ## Beyond the technical work
 
-**Communication and teaching** are part of my background: I currently work as an interpreter at Teleperformance and previously taught chess.
-
 **Recognition:** third place at the AMCITECH 2026 Datathon and second place at Todos a Salvo: Desafío Occidente (2025), with my teams. I have also presented projects at TRIBU AI and DataDay.
 
-**Languages:** Spanish — native · English — C1 · German — A1.
+**Languages:** 
+- Spanish — native
+- English — C1
+- German — A1.
 
 <details>
 <summary><b>Sobre mí · Español</b></summary>
