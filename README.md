@@ -22,6 +22,8 @@ I enjoy making data useful: understanding a question, preparing reliable inputs,
 
 ## My stack
 
+[![Python, scikit-learn, PyTorch, PostgreSQL, SQLite, Apache Kafka, Git, Docker and Cloudflare Workers](https://skillicons.dev/icons?i=py,sklearn,pytorch,postgres,sqlite,kafka,git,docker,workers&theme=dark&perline=9)](https://skillicons.dev)
+
 | Area | Tools I use |
 | :--- | :--- |
 | **Analytics & BI** | SQL · Python · pandas · NumPy · Power BI · Excel · Matplotlib · Seaborn |
