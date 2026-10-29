@@ -31,8 +31,6 @@ I enjoy making data useful: understanding a question, preparing reliable inputs,
 | **Data & pipelines** | PostgreSQL · SQLite · Apache Airflow · Apache Kafka · PySpark · Great Expectations |
 | **Development & deployment** | Git · Docker · Jupyter · Streamlit · Cloudflare Workers |
 
-My data experience comes from **academic projects and technical assessments**, spanning tabular analytics, financial propensity models and computer vision applications.
-
 ## Beyond the technical work
 
 **Communication and teaching** are part of my background: I currently work as an interpreter at Teleperformance and previously taught chess.
